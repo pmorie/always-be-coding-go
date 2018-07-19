@@ -1,2 +1,3 @@
 # always-be-coding-go
-Always be coding (in go)
+
+A small space for me practice programming go.
